@@ -13,3 +13,25 @@ def validar_notas(notas):
 def calcular_media(notas):
     # soma as notas divido pela quantidade de notas, para calcular a media
     return sum(notas) / len(notas)
+
+def processar_alunos(dados):
+    alunos_validos = []
+    recuperacao = []
+    top_student = ("", 0)
+
+    for nome, notas in dados:
+        if not validar_notas(notas):
+            print("Invalido: ", nome)
+            continue
+
+        media = calcular_media(notas)
+
+        alunos_validos.append((nome, media))
+
+        if (media < 7):
+            recuperacao.append((nome, media))
+
+        if (media > top_student[1]):
+            top_student = (nome, media)
+
+    return alunos_validos, recuperacao, top_student
