@@ -9,3 +9,7 @@ def validar_notas(notas):
             return False
     
     return True
+
+def calcular_media(notas):
+    # soma as notas divido pela quantidade de notas, para calcular a media
+    return sum(notas) / len(notas)
