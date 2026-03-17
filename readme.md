@@ -1,5 +1,6 @@
 LEVANTAMENTO DE REQUISITOS
 
+Aqui vemos o que o sistema deve conter, quais requisitos ele deve atender para que o objetivo final seja cumprido
 
 Requisitos Funcionais:
 
