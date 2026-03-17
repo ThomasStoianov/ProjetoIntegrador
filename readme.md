@@ -1,8 +1,11 @@
-Levantamento de Requisitos
+LEVANTAMENTO DE REQUISITOS
+
+Aqui vemos o que o sistema deve conter, quais requisitos ele deve atender para que o objetivo final seja cumprido
 
 Requisitos Funcionais:
 
 O sistema deve calcular a média dos alunos.
+
 O sistema deve verificar se a nota dos alunos está vazia ou com um dado incorreto
 O sistema deve identificar o aluno com a maior média
 O sistema deve identicar o aluno com maior média
@@ -10,10 +13,17 @@ O sistema deve identicar o aluno com maior média
 Requisitos Não Funcionais:
 
 O sistema deve ser rápido
+
 O sistema deve ser seguro com os dados
+
 O sistema deve ser organizado e bem estruturado
 O sistema deve possuir código legível e bem estruturado
 O sistema deve utilizar boas práticas de programação
+
+O sistema deve possuir código legível e bem estruturado
+
+O sistema deve utilizar boas práticas de programação
+
 
 Regras de negócio:
 
