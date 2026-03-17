@@ -42,6 +42,8 @@ nessa etapa identificamos as dores e os desejos do nosso cliente, o que ele vê,
 <img width="801" height="573" alt="image" src="https://github.com/user-attachments/assets/09b9a279-712e-47ae-b898-6e30cf13ca84" />
 
 
+
+
 KANBAN
 
 Aqui organizamos melhor as tarefas necessárias para construir o projeto
