@@ -17,7 +17,7 @@ Regras de negócio:
 Alunos que tiverem a média menor que 7.0 ficam de recuperação
 Aluno com maior média recebe o título de Top Student
 
-Metodologias Utilizadas
+METODOLOGIAS UTILIZADAS
 
 Briefing - Mapa da Empatia
 
