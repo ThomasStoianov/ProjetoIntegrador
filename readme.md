@@ -7,8 +7,6 @@ O sistema deve calcular a média dos alunos.
 
 O sistema deve verificar se a nota dos alunos está vazia ou com um dado incorreto
 
-O sistema deve identificar o aluno com a maior média
-
 O sistema deve identicar o aluno com maior média
 
 
