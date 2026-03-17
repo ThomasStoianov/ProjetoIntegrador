@@ -40,3 +40,10 @@ Briefing - Mapa da Empatia
 nessa etapa identificamos as dores e os desejos do nosso cliente, o que ele vê, fala, pensa, tudo para garantir que o projeto atenda perfeitamente suas necessidades
 
 <img width="801" height="573" alt="image" src="https://github.com/user-attachments/assets/09b9a279-712e-47ae-b898-6e30cf13ca84" />
+
+
+KANBAN
+
+Aqui organizamos melhor as tarefas necessárias para construir o projeto
+
+<img width="950" height="672" alt="image" src="https://github.com/user-attachments/assets/dfb99944-45e7-4de2-a5f2-649ba88e1d90" />
