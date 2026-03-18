@@ -33,3 +33,9 @@ Apenas números podem ser considerados notas válidas
 Alunos com notas vazias não devem ser considerados 
 
 ![alt text](image.png)
+
+KANBAN
+
+Nessa etapa discutimos o que estamos fazendo, para termos organização durante o processo 
+
+<img width="951" height="430" alt="image" src="https://github.com/user-attachments/assets/14724472-a533-4ae9-8f42-14bbc4bf53f7" />
