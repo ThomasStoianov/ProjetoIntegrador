@@ -43,4 +43,5 @@ Nessa etapa discutimos o que estamos fazendo, para termos organização durante 
 
 TECNOLOGIAS UTILIZADAS
 
+
 Python, Miro, Git, Github
