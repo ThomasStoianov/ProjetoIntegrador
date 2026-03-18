@@ -35,3 +35,19 @@ def processar_alunos(dados):
             top_student = (nome, media)
 
     return alunos_validos, recuperacao, top_student
+
+def gerar_relatorio(alunos, recuperacao, top_student):
+    with open("resultado.txt", "w", encoding="utf-8") as arquivo:
+
+        arquivo.write("=== RELATÓRIO ACADÊMICO ===\n\n")
+
+        arquivo.write("Alunos:\n")
+        for nome, media in alunos:
+            arquivo.write(f"{nome}: {media:.2f}\n")
+
+        arquivo.write("\nRecuperação:\n")
+        for nome, media in recuperacao:
+            arquivo.write(f"{nome}: {media:.2f}\n")
+
+        arquivo.write("\nTop Student:\n")
+        arquivo.write(f"{top_student[0]}: {top_student[1]:.2f}\n")

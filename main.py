@@ -1,4 +1,4 @@
-from processamento import processar_alunos
+from processamento import processar_alunos, gerar_relatorio
 
 dados = [
     ("João", [8, 7, 9]), 
@@ -13,3 +13,7 @@ alunos, recuperacao, top_student = processar_alunos(dados)
 print("Alunos:", alunos)
 print("Recuperação:", recuperacao)
 print("Top Student:", top_student)
+
+gerar_relatorio(alunos, recuperacao, top_student)
+
+print("Relatório gerado!")
