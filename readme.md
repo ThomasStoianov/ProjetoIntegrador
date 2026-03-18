@@ -34,6 +34,10 @@ Alunos com notas vazias não devem ser considerados
 
 ![alt text](image.png)
 
+TECNOLOGIAS UTILIZADAS
+
+Python, Miro, Git, Github
+
 KANBAN
 
 Nessa etapa discutimos o que estamos fazendo, para termos organização durante o processo 
